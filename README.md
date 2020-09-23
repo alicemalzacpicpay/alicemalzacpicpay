@@ -4,7 +4,7 @@
   
 - Atualmente estou focada em estudar sobre automação de teste. :robot: 
 
-### Linguagens:
+### Linguagens e ferramentas:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 

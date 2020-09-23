@@ -1,7 +1,5 @@
 ## Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
-### Sobre mim:
-
   Sou uma Quality Assurance Engineer apaixonada por testes e compartilhar conceitos de qualidade de software. 🚀 
   
 - Atualmente estou focada em estudar sobre automação de teste. :robot: 

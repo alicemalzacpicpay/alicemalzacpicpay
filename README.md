@@ -1,12 +1,12 @@
-## Hi there <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+## Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
-### About me:
+### Sobre mim:
 
-  I'm Quality Assurance Engineer passionate about testing and sharing quality concepts 🚀 
+  Sou uma Quality Assurance Engineer apaixonada por testes e compartilhar conceitos de qualidade de software. 🚀 
   
-- I'm currently focusing my studies on test automation. :robot: 
+- Atualmente estou focada em estudar sobre automação de teste. :robot: 
 
-### Languages and tools:
+### Linguagens:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
